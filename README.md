@@ -4,7 +4,7 @@
 </p>
 <h1>Dart Programming Language</h1>
 
-![platform](./assets/img/frame.svg)
+![platform](https://raw.githubusercontent.com/dhimasarista/Dart/main/assets/img/frame.svg)
 
 
 <h5>It's just my documentation to used dart as my favorite language.</h5>
@@ -31,15 +31,6 @@
 - Type inference: tipe data akan otomatis terdeteksi ketika sebuah variabel diinisialisasikan.
 - String Interpolation: fitur dimana kita bisa menyisipkan variabel kesebuah objek string tanpa concatenation(penggabungan objek string menggunakan +).
 - Multi-paradigm: OOP & Functional.
-- Komentar pada dart
-```
-// Single Line
-
-/*
-  Multi Line
-*/
-/// Comments for documentation
-```
 
 ## Environment
 - [Dart SDK](https://dart.dev/get-dart/archive)
