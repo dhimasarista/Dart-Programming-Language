@@ -9,7 +9,7 @@
 
 <h5>It's just my documentation to used dart as my favorite language.</h5>
 
-[dart.dev](https://dart.dev) | [PDF](shorturl.at/dptxY) | [Dhimasarista](https://dhimasarista.github.io)
+[dart.dev](https://dart.dev) | [PDF](http://shorturl.at/dptxY) | [Dhimasarista](https://dhimasarista.github.io)
 
 </div>
 <div align="left">
